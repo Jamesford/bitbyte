@@ -1,6 +1,6 @@
 {
   "name": "bitbyte",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "Human-friendly bits and bytes (kilo, mega, giga, tera, peta)(bit/bytes)",
   "main": "index.js",
   "scripts": {
